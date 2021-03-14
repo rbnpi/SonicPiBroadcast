@@ -1,4 +1,4 @@
-#Sonic Pi Broadcast Orchestra Overview#
+*Sonic Pi Broadcast Orchestra Overview*
 
 This repository contains files in the broadcast folder
 which enable Sonic Pi to synchronise several slave machines
@@ -21,4 +21,4 @@ You can select which of the programs you want to play by commenting out the bloc
 
 Some programs are quite long. If they have tempo changes, then it is possible to start playing from one of the tempo changes by adjusting the variable `st` (usually set to 0). Thus setting `st = 3` would start playing the program from the third tempo change, omitting the first two sections.
 
-A separate document describe the setup process for adjusting the audio sync, and there is a 54 minute video showing the program in use which will be helpful.
+A separate document describe the setup process for adjusting the audio sync, and there is a 54 minute video showing the program in use which will be helpful. https://youtu.be/6Vxcw9I77fY
